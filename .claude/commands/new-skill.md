@@ -4,7 +4,7 @@ description: Scaffold a new skill in skills/<name>/SKILL.md
 
 You are scaffolding a new skill for this suit content repo.
 
-A skill is a focused, reusable capability — a small toolkit the AI can pull in for a specific task. Skills are referenced from personas (via `skill_include`) or auto-loaded based on harness defaults.
+A skill is a focused, reusable capability — a small toolkit the AI can pull in for a specific task. Skills are referenced from outfits (via `skill_include`), modes/accessories (via `include.skills`), or auto-loaded based on harness defaults.
 
 Ask the user:
 
