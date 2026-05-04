@@ -1,8 +1,8 @@
 ---
 name: default
 version: 1.0.0
-type: persona
-description: Generic baseline persona. Suitable for most general-purpose work.
+type: outfit
+description: Generic baseline outfit. Suitable for most general-purpose work.
 targets: [claude-code, codex, gemini, copilot, apm, pi]
 categories: [tooling, workflow]
 ---

@@ -1,8 +1,8 @@
 ---
 name: code
 version: 1.0.0
-type: persona
-description: Code-focused persona. Tighter on engineering rigor, testing, and review discipline.
+type: outfit
+description: Code-focused outfit. Tighter on engineering rigor, testing, and review discipline.
 targets: [claude-code, codex, gemini, copilot]
 categories: [tooling, workflow]
 ---
